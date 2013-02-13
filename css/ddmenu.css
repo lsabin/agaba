@@ -37,7 +37,7 @@
 
 #ddmenu a
 {
-    color:#fff;
+    color:#e8e8e8;
     padding:0 14px;
     line-height:40px;
     font-size:14px;
@@ -57,7 +57,7 @@
 /* links without sub-menu */
 #ddmenu li.over a
 {
-    background-color:#4c423b;
+    background-color:#990100;
     
     color:#FFFFFF;
 }
